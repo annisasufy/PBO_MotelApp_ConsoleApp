@@ -1,0 +1,8 @@
+D:\NISOL\Kuliah\KELAS\3_PBO\LaundryUswa\LaundryUswa\bin\Debug\LaundryUswa.exe.config
+D:\NISOL\Kuliah\KELAS\3_PBO\LaundryUswa\LaundryUswa\bin\Debug\LaundryUswa.exe
+D:\NISOL\Kuliah\KELAS\3_PBO\LaundryUswa\LaundryUswa\bin\Debug\LaundryUswa.pdb
+D:\NISOL\Kuliah\KELAS\3_PBO\LaundryUswa\LaundryUswa\obj\Debug\LaundryUswa.csproj.AssemblyReference.cache
+D:\NISOL\Kuliah\KELAS\3_PBO\LaundryUswa\LaundryUswa\obj\Debug\LaundryUswa.csproj.SuggestedBindingRedirects.cache
+D:\NISOL\Kuliah\KELAS\3_PBO\LaundryUswa\LaundryUswa\obj\Debug\LaundryUswa.csproj.CoreCompileInputs.cache
+D:\NISOL\Kuliah\KELAS\3_PBO\LaundryUswa\LaundryUswa\obj\Debug\LaundryUswa.exe
+D:\NISOL\Kuliah\KELAS\3_PBO\LaundryUswa\LaundryUswa\obj\Debug\LaundryUswa.pdb
